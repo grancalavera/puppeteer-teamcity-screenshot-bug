@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-teamcity-screenshot-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "11.13.4",
+    "@types/puppeteer": "1.12.3",
+    "puppeteer": "1.14.0"
+  }
+}
